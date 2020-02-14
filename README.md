@@ -1,2 +1,2 @@
 # Matchstick
-Nim Game with nice AI
+Nim Game with Monte Carlo AI
